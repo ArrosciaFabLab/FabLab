@@ -7,8 +7,6 @@
 ![](https://img.shields.io/github/commits-since/ArrosciaFabLab/FabLab/1.0.0.svg?style=flat)
 ![](https://img.shields.io/github/last-commit/ArrosciaFabLab/FabLab.svg?style=flat)
 
-<a href="https://www.buymeacoffee.com/Morriz" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
 In questa sezione si trova tutta la documentazione utilizzata per la **progettazione e la realizzazione dei locali** del FabLab. Qui si trovano disegni architettonici in pianta e tridimensionali realizzati con il software open source **[SweetHome 3D](http://www.sweethome3d.com/it/ "SweetHome 3D")**, disegni 3D delle attrezzature e dei locali realizzati con **[Trimble SketchUp](https://www.sketchup.com/it "Trible SketchUp")**, progettazione della topologia di rete, scelta e disposizione della mobilia, scelta e disposizione delle attrezzature, impianti elettrici e di illuminazione, ecc.
 
 Tutti i modelli 3D progettati con Trimble SketchUp si trovano anche nella Raccolta ArrosciaFabLab del portale **[Trimble 3D Warehouse](https://3dwarehouse.sketchup.com/collection/d2b85364-d8c8-4320-ba27-e4b2cbbf4f69/Arroscia-FabLab "Raccolta Arroscia FabLab su 3D Warehouse")**.
