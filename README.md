@@ -1,12 +1,7 @@
 # FabLab
 
-[![GitHub Last Commit][last-commit-shield]][commits]
-
-![GitHub Stars][stars-shield]
-![GitHub Watchers][watchers-shield]
-![GitHub Forks][forks-shield]
-
-[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
+[![star this repo](http://githubbadges.com/star.svg?user=Morriz1971/ArrosciaFabLab&repo=FabLab&style=default)](https://github.com/Morriz1971/ArrosciaFabLab/FabLab)
+[![fork this repo](http://githubbadges.com/fork.svg?user=Morriz1971/ArrosciaFabLab&repo=FabLab&style=default)](https://github.com/Morriz1971/ArrosciaFabLab/FabLab/fork)
 
 In questa sezione si trova tutta la documentazione utilizzata per la **progettazione e la realizzazione dei locali** del FabLab. Qui si trovano disegni architettonici in pianta e tridimensionali realizzati con il software open source **[SweetHome 3D](http://www.sweethome3d.com/it/ "SweetHome 3D")**, disegni 3D delle attrezzature e dei locali realizzati con **[Trimble SketchUp](https://www.sketchup.com/it "Trible SketchUp")**, progettazione della topologia di rete, scelta e disposizione della mobilia, scelta e disposizione delle attrezzature, impianti elettrici e di illuminazione, ecc.
 
