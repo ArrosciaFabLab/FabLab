@@ -1,6 +1,8 @@
+<H1 ALIGN="center">
 # FabLab
+</H1>
 
-<h4 align="center">Assicurati di fare click su :star: in alto a destra per essere sempre aggiornato sulle sue modifiche!</h4>
+<H4 ALIGN="center">Assicurati di fare click su :star: in alto a destra per essere sempre aggiornato sulle sue modifiche!</H4>
 <BR>
   
 ![](https://img.shields.io/github/stars/ArrosciaFabLab/FabLab.svg?style=flat)
