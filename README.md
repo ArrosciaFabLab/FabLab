@@ -1,6 +1,6 @@
 # FabLab
-<BR>
-<h4 align="center">Assicurati di :star: questo repo per essere sempre aggiornato sulle sue modifiche!</h4>
+
+<h4 align="center">Assicurati di fare click su :star: ina alto a destra per essere sempre aggiornato sulle sue modifiche!</h4>
 <BR>
 <BR>
   
