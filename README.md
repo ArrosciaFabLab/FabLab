@@ -1,7 +1,6 @@
 # FabLab
 
-<h4 align="center">Assicurati di fare click su :star: ina alto a destra per essere sempre aggiornato sulle sue modifiche!</h4>
-<BR>
+<h4 align="center">Assicurati di fare click su :star: in alto a destra per essere sempre aggiornato sulle sue modifiche!</h4>
 <BR>
   
 ![](https://img.shields.io/github/stars/ArrosciaFabLab/FabLab.svg?style=flat)
