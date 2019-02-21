@@ -1,5 +1,7 @@
 # FabLab
 
+<h4 align="center">Assicurati di :star: questo repo per essere sempre aggiornato sulle sue modifiche!</h4>
+
 ![](https://img.shields.io/github/stars/ArrosciaFabLab/FabLab.svg?style=flat)
 ![](https://img.shields.io/github/watchers/ArrosciaFabLab/FabLab.svg?style=flat)
 ![](https://img.shields.io/github/forks/ArrosciaFabLab/FabLab.svg?style=flat)
