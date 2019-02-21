@@ -1,5 +1,5 @@
 <H1 ALIGN="center">
-# FabLab
+FabLab
 </H1>
 
 <H4 ALIGN="center">Assicurati di fare click su :star: in alto a destra per essere sempre aggiornato sulle sue modifiche!</H4>
